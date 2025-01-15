@@ -1,3 +1,4 @@
+![Renda X Total de Gastos por Cluster](./k-means.png)
 # Segmentação de Clientes
 
 ## Visão Geral
